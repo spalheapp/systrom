@@ -2,39 +2,6 @@
 <html lang="pt-br">
 
 <head>
-      <script language="JavaScript">
-        function protegercodigo() {
-        if (event.button==2||event.button==3){
-            alert('Código protegido por: Equipe Systrom Safe 🔐');}
-        }
-        document.onmousedown=protegercodigo
-    </script>
-    <script>
-    if (document.addEventListener) {
-        document.addEventListener("keydown", bloquearSource);
-    } else { //Versões antigas do IE
-        document.attachEvent("onkeydown", bloquearSource);
-    }
-    
-    function bloquearSource(e) {
-        e = e || window.event;
-    
-        var code = e.which || e.keyCode;
-    
-        if (
-            e.ctrlKey &&
-            (code == 83 || code == 85) //83 = S, 85 = U
-        ) {
-            if (e.preventDefault) {
-                e.preventDefault();
-            } else {
-                e.returnValue = false;
-            }
-    
-            return false;
-        }
-    }
-    </script>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -137,7 +104,7 @@
         </div>
         <div class="text" data-aos="fade-up">
           <div class="icon">
-            <img src="img/icon-neon.svg" alt="icone systrom" />
+            <img src="img/icon-neon.svg" alt="icone neon" />
           </div>
           <div class="info-txt">
             <h3>Baixe nosso app</h3>
@@ -202,17 +169,19 @@
               </div>
               <img src="img/arrow-right.svg" alt="" />
             </li>
+          </ul>
+          <a href="" class="btn">Conheça outras vantagens</a>
         </div>
 
         <div class="box-card" data-aos="fade-left">
           <div class="text">
-            <h2>Systrom Card</h2>
-            <h3>Micro NFC para negócio!</h3>
+            <h2>Systrom Safe</h2>
+            <h3>Micro NFC negócio!</h3>
             <p>
-              Quer algo empresárial? Temos nosso Systrom Card NFC, cartão com seus dados adquira já.
+              Esqueceu seus dados do Systrom Safe? Temos nosso Micro NFC com seus dados salvo adquira já.
             </p>
             <div class="btns">
-              <button class="btn-primary">CARD NFC</button>
+              <button class="btn-primary">MICRO NFC</button>
               <button class="btn-primary">APLICATIVO</button>
             </div>
           </div>
@@ -222,7 +191,7 @@
     </div>
   </section>
 
- <section class="s-depoimentos">
+  <section class="s-depoimentos">
     <div class="container">
       <div class="top" data-aos="fade-right">
         <h2>
