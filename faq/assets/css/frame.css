@@ -1,0 +1,22 @@
+/* Developed by Paulo Victor */
+body {
+		margin: 0;
+	}
+
+	#site {
+		position: absolute;
+		height: 100%;
+		width: 100%;
+		border: 0;
+		left: 0;
+		top: 0;
+	}
+
+	#player {
+		position: absolute;
+		height: 0;
+		width: 0;
+		border: 0;
+		left: 0;
+		top: 0;
+	}

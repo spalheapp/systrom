@@ -1,0 +1,97 @@
+[
+	{
+		"category_name": "Perguntas mais populares",
+		"questions": [
+			{
+				"title": "O que é Systrom App?",
+				"response": "Systrom App é um aplicativo de viagens que fornece informações e opiniões de conteúdos relacionados ao turismo. Ele também inclui notícias & eventos de viagens interativos."
+			},
+
+			{
+				"title": "Como funciona o Systrom App?",
+				"response": "O Systrom App foi desenvolvido para ser o mais intuitivo possível, mas não se preocupe, entendemos que você pode precisar de um pouco de ajuda no começo. Ao criar uma conta, não deixe de adicionar suas melhores fotos e de escrever um pouco sobre você, assim outras pessoas poderão saber se vocês têm algo em comum! Assim que completar o seu cadastro você poderá conferir o jogo Encontros , que é o coração do Vino. Simplesmente vote Sim ou Não para outros usuários, se duas pessoas se gostarem mutualmente, uma conexão  será formada e vocês podem começar a conversar!  Na seção Pessoas Perto  você pode procurar usuários na sua cidade ou região. Vino é gratuito mas se você quer se destacar na multidão, confira nossos serviços premium como Créditos e Vino Premium. Divirta-se usando o Vino!"
+			},
+
+			{
+				"title": "Existem regras?",
+				"response": "Sim, temos algumas. A primeira de todas, seja legal. Nós queremos que você se sinta confortável e que possa se expressar, mas se outros usuários se queixam de que você é ofensivo, agressivo ou ameaçador, vamos levar isso muito a sério. Além disso, qualquer conteúdo que você coloque na sua página de perfil do Vino deve estar de acordo com os nossos Termos e Condições e não deve desrespeitar direitos autorais. Se você publicar qualquer material pornográfico, violento ou ofensivo, vamos bloqueá-lo e nos reservamos o direito de excluí-lo do Vino. Saiba mais em nossas Diretrizes, Termos e Condições e Política de Privacidade."
+			},
+
+			{
+				"title": "Quanto custa para participar?",
+				"response": "Para participar do Systrom App não é preciso pagar nada! Isso permite que você crie um perfil, publique fotos e vídeos, procure amizades perto de você e converse com pessoas novas todos os dias. Se você quiser usufruir ainda mais da sua experiência no Vino, você pode usar os nossos recursos Premium para chamar mais atenção e conhecer ainda mais pessoas. É simples, basta clicar sobre os serviços que mais interessam, como Ficar em primeiro lugar, Destacar sua foto ou Vino Premium  para saber mais sobre os Termos de Uso e custos."
+			}
+		]
+	},
+
+	{
+		"category_name": "Duvidas",
+		"questions": [
+			{
+				"title": "Como editar meu perfil?",
+				"response": "Para editar seu perfil simplesmente acesse ao seu perfil e clique no lápis ao lado da seção que deseja editar. Depois de fazer as alterações, clique em 'Salvar' para confirmar."
+			},
+
+			{
+				"title": "Como mudar meu nome?",
+				"response": "Para mudar o seu nome acesse suas Configurações clicando no ícone Configuração e clique no lápis  ao lado de 'Informações básicas'. Digite o nome que desejar e clique em 'Salvar' para confirmar a alteração."
+			},
+
+			{
+				"title": "Como funciona o sistema de carteira?",
+				"response": "O sistema de carteira é apenas para profissional e funciona apenas com um sistema baseado em comissões. O fluxo básico do sistema de carteira é que o administrador adiciona a carteira para o profissional. se o usuário reservar o serviço de um profissional específico e pagar, o administrador pode decidir o valor da comissão para o profissional de sua carteira."
+			},
+
+			{
+				"title": "Como funciona o sistema baseado em comissões e assinaturas?",
+				"response": "Este é o tipo de ganho para o profissional. Com base em comissão, assim que você adicionar serviços, eles ficarão visíveis na lista de serviços. Baseado em Assinatura, Os serviços serão mostrados somente quando o profissional tiver assinado um dos planos que ele escolheu. Assim, o serviço será adicionado, mas não será mostrado na lista porque nenhum profissional se inscreveu no plano, uma vez que o profissional se inscrever, ele será mostrado na lista."
+			}
+		]
+	},
+
+	{
+		"category_name": "Systrom App",
+		"questions": [
+			{
+				"title": "Coronavírus",
+				"response": "Solicitamos a todos que usam a Systrom App que sigam as instruções das autoridades de saúde e médicos licenciados. Se estiver doente, as autoridades de saúde pedem que você fique em isolamento domiciliar. Para mais informações, acesse o site do Ministério da Saúde."
+			},
+
+			{
+				"title": "O que são fixas?",
+				"response": "Nós recompensamos as suas mais fantásticas Transmissões Ao Vivo com fichas! Fichas podem ser usadas de diferentes maneiras. A quantidade de fichas que você recebe depende de uma série de fatores; alguns deles incluem o valor dos presentes recebidos, a quantidade de espectadores e a frequência com que você fica ao vivo e posta suas transmissões. Portanto, quanto mais transmissões você fizer mais fichas você ganha, o que aumenta as suas chances de poder convertê-las em grandes benefícios!"
+			},
+
+			{
+				"title": "Como denunciar na Systrom App?",
+				"response": "Nós investigamos seriamente todos as denúncias que recebemos para ter certeza que nossa comunidade é um ambiente seguro. Para denunciar um streamer, basta clicar no ícone de 'bandeira' que fica à direita, no topo de sua página. Isso abrirá um menu, onde você poderá selecionar a função: 'Denunciar'."
+			},
+
+			{
+				"title": "Como adicionar aos favoritos?",
+				"response": "Para adicionar alguém à sua lista de favoritos visite o perfil da pessoa, clique na estrelinha no topo direito da página."
+			},
+            
+            {
+				"title": "Systrom App Premium",
+				"response": "O Systrom App Premium inclui uma um monte de recursos extra que os usuários normais não têm acesso e que vão te dar vantagem."
+			}
+
+		 ]
+     },
+
+	{
+		"category_name": "Créditos",
+		"questions": [
+			{
+				"title": "O que são créditos Systrom App?",
+				"response": "Os créditos do Systrom App te ajudam a chamar a atenção, simples assim. Com os créditos você pode promover-se no pessoas perto, destacar sua foto, aparecer mais em Encontros e muito mais, Vale muito pena, pois seu perfil ganhará muita visibilidade. Você também pode ativar a Recarga Automática de Créditos para certificar-se de que você nunca ficará sem créditos"
+			},
+
+			{
+				"title": "Quanto crédito posso comprar?",
+				"response": "Você pode comprar 100, 550, 1250 ou 2750 créditos de uma vez só."
+			}
+		]
+	}
+]
